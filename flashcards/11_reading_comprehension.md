@@ -16,7 +16,7 @@ A: Law school revolves around reading dense, unfamiliar text — judicial opinio
 Q: How is the modern RC section structured?
 A: Four passages, ~27 questions total, 35 minutes. One passage is a "comparative reading" pair (two shorter passages on a related topic). Roughly 8–9 minutes per passage including questions.
 
-C: An RC section contains [4] passages and ~[27] questions in [35] minutes.
+C: An RC section contains [4] passages and ~[27] questions in 35 minutes.
 
 ## 11.3 The Four Passage Subjects
 
@@ -28,12 +28,15 @@ A: (1) Law / legal theory. (2) Humanities (literature, philosophy, art history).
 Q: What does "active reading" mean for RC?
 A: Reading with explicit goals — find the main point, track the author's attitude, note structural shifts — rather than reading passively for facts. Active readers finish passages with a clear mental map; passive readers must re-read for every question.
 
-C: Active reading focuses on identifying the [main point], [author's attitude], and [structure], not memorizing details.
+C: Active reading focuses on identifying the main point, author's attitude, and structure — not [memorizing details].
 
 ## 11.5 The Five Things to Track Per Passage
 
-Q: What five elements should you track while reading any RC passage?
-A: (1) Main Point — the central thesis. (2) Author's Attitude — supportive, neutral, critical. (3) Structure — how paragraphs relate. (4) Viewpoints — author vs others quoted. (5) Tone shifts — words like "however", "yet", "but" that mark turns.
+C: Five things to track per RC passage: [main point], [author's attitude], structure, viewpoints, and tone shifts.
+
+C: Five things to track per RC passage: main point, author's attitude, [structure], [viewpoints], and tone shifts.
+
+C: Five things to track per RC passage: main point, author's attitude, structure, viewpoints, and [tone shifts].
 
 ## 11.6 Main Point
 
@@ -49,13 +52,22 @@ A: Note charged words ("admirable", "misguided", "compelling", "flawed"). Distin
 
 ## 11.8 Passage Structure
 
-Q: What are common RC structures?
-A: (1) Defend a position by refuting alternatives. (2) Present two views and side with one. (3) Survey a phenomenon and analyze its causes. (4) Describe an old approach, criticize it, propose a new one. (5) Compare two analogous cases.
+Q: What are common RC structures built around competing views?
+A: (1) Defend a position by refuting alternatives. (2) Present two views and side with one. (3) Describe an old approach, criticize it, propose a new one.
+
+Q: What are common RC structures built around analysis rather than debate?
+A: (1) Survey a phenomenon and analyze its causes. (2) Compare two analogous cases.
 
 ## 11.9 Question Types in RC
 
-Q: What are the seven main RC question types?
-A: (1) Main Point. (2) Author's Attitude / Tone. (3) Specific Detail. (4) Inference. (5) Function (purpose of a paragraph or phrase). (6) Analogy / Application. (7) Strengthen / Weaken.
+Q: Which RC question types ask about the passage as a whole?
+A: Main Point and Author's Attitude / Tone.
+
+Q: Which RC question types ask about specific passage content?
+A: Specific Detail, Inference, and Function (purpose of a paragraph or phrase).
+
+Q: Which RC question types import LR-style tasks into RC?
+A: Analogy / Application and Strengthen / Weaken.
 
 ## 11.10 Main Point Question
 
@@ -98,8 +110,8 @@ A: Read for structure on the first pass — main point, attitude, paragraph role
 
 ## 11.17 Pre-Phrasing in RC
 
-Q: Can you pre-phrase RC answers?
-A: Yes for Main Point and Author's Attitude — these you should state in your own words after reading. For Detail and Inference, pre-phrase based on the cited section after returning to the text.
+Q: Which RC question types can be pre-phrased, and when?
+A: Main Point and Author's Attitude — state them in your own words right after reading. For Detail and Inference, pre-phrase from the cited section after returning to the text.
 
 ## 11.18 Trap: Half-Right in RC
 

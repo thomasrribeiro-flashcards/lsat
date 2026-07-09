@@ -27,10 +27,10 @@ C: On the LSAT, "some" means [at least one], including possibly all.
 
 ## 4.4 "Most"
 
-C: "Most" means [more than half] — strictly greater than 50%, not "many" or "a majority of those discussed".
+C: On the LSAT, "most" means [more than half] — not merely "many" or "a majority of those discussed".
 
-Q: Can "most" cards include exactly 50%?
-A: No. "Most" requires strictly more than half. If exactly 50% of students pass, you cannot say "most students pass".
+Q: Why does "most students pass" fail if exactly 50% of students pass?
+A: "Most" requires strictly more than half. Exactly 50% is not more than half, so the claim is false.
 
 ## 4.5 The "Some" Inference Rule
 

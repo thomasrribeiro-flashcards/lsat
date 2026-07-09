@@ -20,22 +20,31 @@ A: "The argument's reasoning is flawed in that it …" "Which describes a flaw i
 
 ## 10.3 The Twelve Most Common LSAT Flaws
 
-Q: What are the twelve most-tested LSAT flaw types?
-A: (1) Sufficient/necessary confusion. (2) Causation from correlation. (3) Ad hominem. (4) Straw man. (5) Equivocation. (6) Circular reasoning. (7) Unrepresentative sample. (8) Appeal to authority. (9) Appeal to ignorance. (10) Part-to-whole. (11) Whole-to-part. (12) False dichotomy.
+Q: Which canonical LSAT flaws misuse conditional or causal logic?
+A: Sufficient/necessary confusion. Causation from correlation.
+
+Q: Which canonical LSAT flaws mishandle an opponent's position or a word's meaning?
+A: Ad hominem. Straw man. Equivocation.
+
+Q: Which canonical LSAT flaws rest on bad evidence or bad sources?
+A: Unrepresentative sample. Appeal to authority. Appeal to ignorance.
+
+Q: Which canonical LSAT flaws are illegitimate structural moves?
+A: Circular reasoning. Part-to-whole. Whole-to-part. False dichotomy.
 
 ## 10.4 Sufficient/Necessary Confusion
 
 Q: What is sufficient/necessary confusion?
 A: The argument treats a sufficient condition as if it were necessary, or vice versa — typically committing mistaken reversal or mistaken negation. The most common LSAT flaw.
 
-C: Treating a necessary condition as sufficient commits the [sufficient/necessary] confusion flaw.
+C: Mistaken reversal and mistaken negation are the two forms of the [sufficient/necessary] confusion flaw.
 
 ## 10.5 Causation from Correlation
 
 Q: What is the "causation from correlation" flaw?
 A: The argument concludes one thing causes another based only on the two being correlated. Fails to consider reverse causation, common cause, or coincidence.
 
-C: Concluding causation merely from observed correlation commits the [correlation-causation] flaw.
+C: Concluding that one thing causes another merely because the two occur together commits the [correlation-causation] flaw.
 
 ## 10.6 Ad Hominem
 
@@ -87,7 +96,7 @@ C: Concluding X is true because nobody has disproven it is the [appeal to ignora
 Q: What is the part-to-whole flaw?
 A: The argument concludes a property of a whole based on a property of its parts. "Each player is excellent, so the team must be excellent" — but team performance depends on coordination, not just individual skill.
 
-C: Inferring a property of a whole from properties of its parts is the [part-to-whole] flaw.
+C: Inferring that a group has some property because each of its members has it is the [part-to-whole] flaw.
 
 ## 10.14 Whole-to-Part
 
@@ -111,7 +120,7 @@ A: Composition (part-to-whole) shifts from member to group; equivocation shifts 
 Q: What is the percentage-vs-number flaw?
 A: The argument conflates a percentage and an absolute number. A growing percentage doesn't imply a growing count if the population shrinks; a higher count doesn't imply a higher percentage if the population grew faster.
 
-C: Confusing a percentage with an absolute number commits the [percentage-vs-number] flaw.
+C: Assuming a rising share implies a rising count (or vice versa) commits the [percentage-vs-number] flaw.
 
 ## 10.18 Survey Self-Selection
 

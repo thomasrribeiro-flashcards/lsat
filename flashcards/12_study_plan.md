@@ -16,7 +16,7 @@ A: Without deliberate practice — analyzing each missed question, drilling spec
 Q: What are the three phases of effective LSAT preparation?
 A: (1) Foundations — learn question types, conditional logic, RC structures (4–8 weeks). (2) Drilling — practice question sets by type, untimed then timed (6–12 weeks). (3) Full-length practice tests with thorough review (4–8 weeks).
 
-C: Effective LSAT prep moves from [foundations] to [drilling] to [full-length practice tests].
+C: Effective LSAT prep moves from [foundations] to [drilling] to full-length practice tests.
 
 ## 12.3 Diagnostic Test First
 
@@ -33,7 +33,11 @@ C: Blind Review separates [timing errors] from [content errors] by redoing flagg
 ## 12.5 The Wrong-Answer Journal
 
 Q: What is a wrong-answer journal?
-A: For every missed question, record: (1) question type, (2) why the right answer is right, (3) why the wrong answer you picked is wrong, (4) what trap pattern caught you, (5) one sentence on how to spot it next time. Reviewing this journal weekly accelerates learning more than doing new questions.
+A: A log with an entry analyzing every missed question. Reviewing it weekly accelerates learning more than doing new questions.
+
+C: A wrong-answer journal entry records the [question type], why the right answer is right, and why your pick is wrong.
+
+C: A wrong-answer journal entry ends with the [trap pattern] that caught you and one sentence on how to spot it next time.
 
 ## 12.6 Drill by Question Type
 
@@ -89,8 +93,11 @@ A: (1) 2–3 PTs per week, full review. (2) Light targeted drilling on remaining
 
 ## 12.16 Test Day Logistics
 
-Q: What test-day logistics matter for the online LSAT?
-A: (1) Test environment cleared per LSAC rules. (2) Wired internet preferred over Wi-Fi. (3) Two screens are not allowed; close all extra monitors. (4) Bathroom break only between sections, not during. (5) ProctorU check-in takes ~30 min — log in early.
+Q: What environment and equipment rules matter for the online LSAT?
+A: (1) Test environment cleared per LSAC rules. (2) Wired internet preferred over Wi-Fi. (3) Two screens are not allowed; close all extra monitors.
+
+Q: What timing logistics matter on online-LSAT test day?
+A: (1) Bathroom break only between sections, not during. (2) ProctorU check-in takes ~30 min — log in early.
 
 ## 12.17 Score Cancellation
 

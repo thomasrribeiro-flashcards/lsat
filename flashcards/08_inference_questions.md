@@ -30,7 +30,7 @@ A: "Which of the following must be true?" "Which can be properly inferred?" "Whi
 Q: What stems indicate a Most-Strongly-Supported question?
 A: "Which is most strongly supported by the statements above?" "Which is the most reasonable conclusion?" These accept conclusions that are highly probable given the facts, even if not airtight.
 
-C: Stems with "most strongly supported" or "most reasonably concluded" indicate [MSS] (Most Strongly Supported), a slightly weaker standard than Must Be True.
+C: Stems with "most strongly supported" or "most reasonably concluded" indicate MSS (Most Strongly Supported), a slightly [weaker] standard than Must Be True.
 
 ## 8.5 The Fact-Test
 
@@ -76,7 +76,7 @@ A: An answer choice consistent with the stimulus but not required by it. On Must
 Q: What is the "too strong" trap on inference?
 A: An answer that overstates what the stimulus supports — adds "always", "must", "the only", or "never" beyond what the facts justify. The LSAT prefers carefully hedged inferences over sweeping ones.
 
-C: The "too strong" trap uses absolutes like "always" or "never" that go [beyond] what the stimulus supports.
+C: The "too strong" trap uses absolutes like ["always" or "never"] that go beyond what the stimulus supports.
 
 ## 8.13 Trap: Out-of-Scope Inference
 

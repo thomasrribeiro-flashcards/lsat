@@ -20,15 +20,18 @@ A: "The argument proceeds by …" "The author's reasoning depends on which techn
 
 ## 9.3 Common Methods
 
-Q: What are common methods of reasoning the LSAT tests?
-A: Drawing a generalization from cases. Citing an analogy. Appealing to authority. Refuting a position by counterexample. Eliminating alternatives. Inferring from a general principle to a specific case.
+Q: What methods of reasoning does the LSAT test that argue from evidence toward a conclusion?
+A: Drawing a generalization from cases. Citing an analogy. Appealing to authority. Inferring from a general principle to a specific case.
+
+Q: What methods of reasoning does the LSAT test that argue against a position?
+A: Refuting a position by counterexample. Eliminating alternatives.
 
 ## 9.4 Role-in-Argument Questions
 
 Q: What does a Role-in-Argument question ask?
 A: It points to a specific statement in the stimulus and asks what role that statement plays — premise, sub-conclusion, main conclusion, counterpremise, or background.
 
-C: A Role-in-Argument answer identifies whether a specific statement is a [premise], [sub-conclusion], [main conclusion], or [counterpremise].
+C: A Role-in-Argument answer identifies whether a specific statement is a premise, sub-conclusion, main conclusion, counterpremise, or [background].
 
 ## 9.5 Role Stems
 

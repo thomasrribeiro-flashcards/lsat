@@ -51,15 +51,23 @@ A: Two events can co-occur without any underlying connection, especially in smal
 
 ## 5.8 Strengthening a Causal Argument
 
-Q: What kinds of evidence strengthen a causal argument?
-A: (1) Eliminating alternative causes. (2) Showing the cause and effect occur together repeatedly. (3) Showing the effect disappears when the cause is removed. (4) Showing the cause precedes the effect. (5) Demonstrating a mechanism.
+C: Evidence strengthening a causal argument: eliminating alternative causes, [repeated co-occurrence] of cause and effect, effect absent when the cause is removed, cause precedes the effect, a demonstrated mechanism.
+
+C: Evidence strengthening a causal argument: eliminating alternative causes, repeated co-occurrence of cause and effect, [effect absent when the cause is removed], cause precedes the effect, a demonstrated mechanism.
+
+C: Evidence strengthening a causal argument: eliminating alternative causes, repeated co-occurrence of cause and effect, effect absent when the cause is removed, [cause precedes the effect], a demonstrated mechanism.
+
+C: Evidence strengthening a causal argument: eliminating alternative causes, repeated co-occurrence of cause and effect, effect absent when the cause is removed, cause precedes the effect, [a demonstrated mechanism].
 
 C: Strengthening a causal argument typically involves [eliminating alternative explanations] for the observed correlation.
 
 ## 5.9 Weakening a Causal Argument
 
-Q: What kinds of evidence weaken a causal argument?
-A: (1) Identifying a plausible alternative cause. (2) Showing reverse causation is possible. (3) Showing the effect occurs without the cause. (4) Showing the cause occurs without the effect. (5) Pointing to a flawed sample.
+C: Evidence weakening a causal argument: an alternative cause, possible reverse causation, [the effect occurring without the cause], the cause occurring without the effect, a flawed sample.
+
+C: Evidence weakening a causal argument: an alternative cause, possible reverse causation, the effect occurring without the cause, [the cause occurring without the effect], a flawed sample.
+
+C: Evidence weakening a causal argument: an alternative cause, possible reverse causation, the effect occurring without the cause, the cause occurring without the effect, [a flawed sample].
 
 C: Weakening a causal argument typically involves presenting an [alternative cause] for the same effect.
 

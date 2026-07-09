@@ -78,7 +78,8 @@ A: Background information sets context but neither supports nor opposes the conc
 Q: How do you handle a passage that presents two views, one belonging to "some people" and another to the author?
 A: Identify which view is the author's — that view's conclusion is the main conclusion. Statements attributed to "some say" or "critics argue" are usually positions the author rejects, not premises supporting the conclusion.
 
-C: When a passage starts "Some people claim X. However, …", the author's conclusion is signaled by the word [However].
+Q: In a passage of the form "Some people claim X. However, …", which claim is the author's main conclusion?
+A: The claim following "However" — a contrast word after an attributed viewpoint introduces the author's own position.
 
 ## 2.11 Argument vs Explanation
 
