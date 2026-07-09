@@ -1,5 +1,6 @@
 +++
 order = 11
+subject = "Law"
 tags = ["law", "lsat", "reading-comprehension"]
 +++
 

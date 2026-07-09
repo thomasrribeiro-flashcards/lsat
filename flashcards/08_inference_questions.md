@@ -1,5 +1,6 @@
 +++
 order = 8
+subject = "Law"
 tags = ["law", "lsat", "logical-reasoning", "inference"]
 +++
 

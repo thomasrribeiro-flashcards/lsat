@@ -1,7 +1,6 @@
 +++
-name = "LSAT"
-subject = "Law"
 order = 1
+subject = "Law"
 tags = ["law", "lsat", "overview"]
 +++
 

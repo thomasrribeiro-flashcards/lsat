@@ -1,5 +1,6 @@
 +++
 order = 4
+subject = "Law"
 tags = ["law", "lsat", "logic", "quantifiers"]
 +++
 
