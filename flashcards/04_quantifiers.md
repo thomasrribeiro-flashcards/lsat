@@ -1,6 +1,6 @@
 +++
 order = 4
-subject = "Law"
+subject = "law"
 tags = ["law", "lsat", "logic", "quantifiers"]
 +++
 

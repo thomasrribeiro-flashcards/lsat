@@ -1,6 +1,6 @@
 +++
 order = 12
-subject = "Law"
+subject = "law"
 tags = ["law", "lsat", "study", "preparation"]
 +++
 

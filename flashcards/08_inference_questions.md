@@ -1,6 +1,6 @@
 +++
 order = 8
-subject = "Law"
+subject = "law"
 tags = ["law", "lsat", "logical-reasoning", "inference"]
 +++
 
